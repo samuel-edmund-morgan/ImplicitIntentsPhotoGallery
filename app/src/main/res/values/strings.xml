@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentsPhotoGallery</string>
+    <string name="choose_photo">Choose photo</string>
+    <string name="here_will_be_a_photo">Here will be a photo</string>
+</resources>
